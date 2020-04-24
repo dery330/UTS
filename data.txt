@@ -1,0 +1,6 @@
+Data Pemantauan Covid19 wilayah Banten
+per 24-April-2020 19:03:02
+Dery Ali Ramadan/171011401190
+
+Positif | Dirawat | Sembuh | Meninggal
+330 | 300 | 10 | 20257
